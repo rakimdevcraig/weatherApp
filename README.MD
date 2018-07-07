@@ -3,7 +3,7 @@ This app uses the openweathermap API to allow the user to enter their city and c
 
 ![pic](pic.jpg)
 
-Link to project:
+Link to project:https://rakimdevcraig.github.io/weatherApp/
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript, jQuery, API
